@@ -23,12 +23,12 @@ Every developer needs auto scaler — but existing tools are either too complex,
 
 ## Features
 
-- **CPU/Memory-based scaling** — CPU/Memory-based scaling
-- **Custom metric scaling** — Custom metric scaling
-- **Predictive scaling** — Predictive scaling
-- **Cost optimization** — Cost optimization
-- **Multi-cloud support** — Multi-cloud support
-- **CLI monitoring** — CLI monitoring
+- CPU/Memory-based scaling
+- Custom metric scaling
+- Predictive scaling
+- Cost optimization
+- Multi-cloud support
+- CLI monitoring
 
 ## Quick Start
 
