@@ -6,7 +6,7 @@ Thank you for your interest in contributing! 🎉
 
 ### 1. Fork the Repository
 ```bash
-git clone https://github.com/Qyroxen/Auto-Scaler.git
+git clone https://github.com/AetherCodeHQ/Auto-Scaler.git
 cd Auto-Scaler
 ```
 
